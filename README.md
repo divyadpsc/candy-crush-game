@@ -1,2 +1,2 @@
-# blog
-creating a blog web application using react
+# candycrush game
+creating a candy crush game web application using react
